@@ -1,0 +1,30 @@
+#content{
+    background-color: #2C3539;
+    color: #c8c8c8;
+    padding-top: 20px;
+    font-family: "Monospace","comic sans ms" Monospace, Times, serif;
+}
+#searchDiv{
+    padding-top: 40px;
+}
+#sort{
+    padding-top: 20px;
+}
+#special{
+    color: black;
+}
+#userPicture{
+    padding-right: 20px;
+}
+.cursorHeader:hover{
+    cursor: pointer;
+}
+.myHeader{
+    font-family: Monospace, Times, serif !important;
+}
+.myInput{
+    color: black;
+}
+.myTag {
+    color: gold;
+}
